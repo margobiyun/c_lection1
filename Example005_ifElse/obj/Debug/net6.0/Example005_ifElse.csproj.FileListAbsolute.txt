@@ -1,0 +1,15 @@
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example005_ifElse/bin/Debug/net6.0/Example005_ifElse
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example005_ifElse/bin/Debug/net6.0/Example005_ifElse.deps.json
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example005_ifElse/bin/Debug/net6.0/Example005_ifElse.runtimeconfig.json
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example005_ifElse/bin/Debug/net6.0/Example005_ifElse.dll
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example005_ifElse/bin/Debug/net6.0/Example005_ifElse.pdb
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.csproj.AssemblyReference.cache
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.AssemblyInfoInputs.cache
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.AssemblyInfo.cs
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.csproj.CoreCompileInputs.cache
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.dll
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example005_ifElse/obj/Debug/net6.0/refint/Example005_ifElse.dll
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.pdb
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.genruntimeconfig.cache
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example005_ifElse/obj/Debug/net6.0/ref/Example005_ifElse.dll
