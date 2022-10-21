@@ -1,0 +1,15 @@
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example007_While/bin/Debug/net6.0/Example007_While
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example007_While/bin/Debug/net6.0/Example007_While.deps.json
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example007_While/bin/Debug/net6.0/Example007_While.runtimeconfig.json
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example007_While/bin/Debug/net6.0/Example007_While.dll
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example007_While/bin/Debug/net6.0/Example007_While.pdb
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example007_While/obj/Debug/net6.0/Example007_While.csproj.AssemblyReference.cache
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example007_While/obj/Debug/net6.0/Example007_While.GeneratedMSBuildEditorConfig.editorconfig
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example007_While/obj/Debug/net6.0/Example007_While.AssemblyInfoInputs.cache
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example007_While/obj/Debug/net6.0/Example007_While.AssemblyInfo.cs
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example007_While/obj/Debug/net6.0/Example007_While.csproj.CoreCompileInputs.cache
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example007_While/obj/Debug/net6.0/Example007_While.dll
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example007_While/obj/Debug/net6.0/refint/Example007_While.dll
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example007_While/obj/Debug/net6.0/Example007_While.pdb
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example007_While/obj/Debug/net6.0/Example007_While.genruntimeconfig.cache
+/Users/margarita/Documents/GEEK BRAINS/I четверть/C#/Lection1/Example007_While/obj/Debug/net6.0/ref/Example007_While.dll
